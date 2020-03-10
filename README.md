@@ -1,0 +1,2 @@
+# cdn
+hexo lsykblog cdn
